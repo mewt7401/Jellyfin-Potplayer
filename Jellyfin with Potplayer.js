@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Jellyfin with Potplayer
-// @version      0.1
-// @description  play video with Potplayer
-// @author       Tccoin
-// @match        http://192.168.31.118:8096/web/index.html
-// @match        http://192.168.31.118:8096/web/
+// @version      0.2
+// @description  play video with Potplayer[AI fixed]
+// @author       Mewtw0
+// @match        http://192.168.xx.xxx:8096/web/index.html
+// @match        http://192.168.xx.xxx:8096/web/
 // @match        http://localhost:8096/web/index.html
 // ==/UserScript==
 
