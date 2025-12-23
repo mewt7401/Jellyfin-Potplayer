@@ -1,4 +1,5 @@
-# potplayer_dotnet.ps1
+# potplayer_aifixed_cover.ps1 
+# just replace the code from the original potplayer.ps1
 param($url)
 
 # 移除协议前缀
