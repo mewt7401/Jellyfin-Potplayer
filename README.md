@@ -1,4 +1,4 @@
-# Jellyfin-Potplayer
+# Jellyfin WEBpage->Potplayer Local
 
 Tested with Jellyfin 11 and Windows 10.Fixed with AI, no promise but effective.
 https://github.com/tccoin/Jellyfin-Potplayer/issues/22
